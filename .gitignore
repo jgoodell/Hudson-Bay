@@ -1,5 +1,11 @@
+# Emacs Backups
+*~
+
 # Database
 *.db
+
+# Apps
+website/messenger*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
